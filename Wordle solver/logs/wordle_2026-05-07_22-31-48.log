@@ -1,0 +1,8 @@
+[2026-05-07 22:31:48] [DEBUG   ] [solver:24] — Loading word list from: C:\Users\Owner\OneDrive - Grand Valley State University\Desktop\Wordle solver\words.txt
+[2026-05-07 22:31:48] [INFO    ] [solver:27] — Loaded 1041 words
+[2026-05-07 22:31:48] [INFO    ] [test:7] — Word list loaded: 1041 words
+[2026-05-07 22:31:48] [DEBUG   ] [solver:56] — After guess 'crane' with pattern ['absent', 'present', 'absent', 'absent', 'absent']: 1041 → 46 candidates
+[2026-05-07 22:31:48] [INFO    ] [test:11] — After crane with R-present: 46 candidates: ['blurt', 'burst', 'dowry', 'first', 'flirt', 'floor', 'flour', 'forth', 'forum', 'girth']
+[2026-05-07 22:31:48] [DEBUG   ] [solver:85] — Scoring 46 candidates to find best guess…
+[2026-05-07 22:31:48] [INFO    ] [solver:92] — Best guess: 'torus'  (entropy=4.719, 46 candidates remain)
+[2026-05-07 22:31:48] [INFO    ] [test:14] — Best guess 2: torus

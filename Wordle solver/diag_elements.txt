@@ -1,0 +1,151 @@
+BODY | id= | class=nightmode | text=Wordle Unlimited
+
+Guess the hidden word in 6 tries.Word Games
+
+Each guess must b
+DIV | id= | class=instructions | text=Wordle Unlimited
+
+Guess the hidden word in 6 tries.Word Games
+
+Each guess must b
+INS | id= | class=adsbygoogle | text=
+DIV | id=aswift_1_host | class= | text=
+IFRAME | id=aswift_1 | class= | text=
+DIV | id= | class=google-anno-skip google-anno-sc | text=Word Games
+svg | id= | class=[object SVGAnimatedString] | text=
+path | id= | class=[object SVGAnimatedString] | text=
+DIV | id= | class=examples | text=Examples
+
+    
+
+The letter G is in the word and in the correct spot.
+
+    
+
+The 
+DIV | id= | class=example | text=The letter G is in the word and in the correct spot.
+DIV | id= | class=row | text=
+DIV | id= | class=example | text=The letter O is in the word but in the wrong spot.
+DIV | id= | class=row | text=
+DIV | id= | class=example | text=The letter E is not in the word in any spot at all.
+DIV | id= | class=row | text=
+DIV | id= | class=google-auto-placed | text=
+INS | id= | class=adsbygoogle adsbygoogle-noablate | text=
+DIV | id=aswift_3_host | class= | text=
+IFRAME | id=aswift_3 | class= | text=
+DIV | id= | class=examples | text=Wordle Rules. How to play Wordle.
+
+In  wordle you have to guess a 5 letter word,
+A | id= | class=google-anno | text=wordle
+svg | id= | class=[object SVGAnimatedString] | text=
+path | id= | class=[object SVGAnimatedString] | text=
+SPAN | id= | class=google-anno-t | text=wordle
+A | id= | class=google-anno | text=game
+svg | id= | class=[object SVGAnimatedString] | text=
+path | id= | class=[object SVGAnimatedString] | text=
+SPAN | id= | class=google-anno-t | text=game
+DIV | id= | class=google-anno-skip google-anno-sc | text=Word game app
+svg | id= | class=[object SVGAnimatedString] | text=
+path | id= | class=[object SVGAnimatedString] | text=
+DIV | id= | class=google-auto-placed ap_container | text=
+INS | id= | class=adsbygoogle adsbygoogle-noablate | text=
+DIV | id=aswift_2_host | class= | text=
+IFRAME | id=aswift_2 | class= | text=
+DIV | id= | class=examples | text=Wordle FAQ. Frequently asked questions.
+
+Can I play more than a game per day?
+Ye
+A | id= | class=google-anno | text=Wordle
+svg | id= | class=[object SVGAnimatedString] | text=
+path | id= | class=[object SVGAnimatedString] | text=
+SPAN | id= | class=google-anno-t | text=Wordle
+DIV | id= | class=google-anno-skip google-anno-sc | text=Mobile game development
+svg | id= | class=[object SVGAnimatedString] | text=
+path | id= | class=[object SVGAnimatedString] | text=
+A | id= | class=google-anno | text=wordle
+svg | id= | class=[object SVGAnimatedString] | text=
+path | id= | class=[object SVGAnimatedString] | text=
+SPAN | id= | class=google-anno-t | text=wordle
+A | id= | class=google-anno | text=game
+svg | id= | class=[object SVGAnimatedString] | text=
+path | id= | class=[object SVGAnimatedString] | text=
+SPAN | id= | class=google-anno-t | text=game
+DIV | id= | class=google-anno-skip google-anno-sc | text=Word Games
+svg | id= | class=[object SVGAnimatedString] | text=
+path | id= | class=[object SVGAnimatedString] | text=
+DIV | id= | class=google-auto-placed | text=
+INS | id= | class=adsbygoogle adsbygoogle-noablate | text=
+DIV | id=aswift_4_host | class= | text=
+DIV | id= | class=examples | text=Download  Wordle app.
+
+Download wordle on Google Play.
+There are many apps to ch
+A | id= | class=google-anno | text=Wordle
+svg | id= | class=[object SVGAnimatedString] | text=
+path | id= | class=[object SVGAnimatedString] | text=
+SPAN | id= | class=google-anno-t | text=Wordle
+DIV | id= | class=google-anno-skip google-anno-sc | text=Mobile game development
+svg | id= | class=[object SVGAnimatedString] | text=
+path | id= | class=[object SVGAnimatedString] | text=
+DIV | id= | class=google-auto-placed | text=
+INS | id= | class=adsbygoogle adsbygoogle-noablate | text=
+DIV | id=aswift_5_host | class= | text=
+DIV | id= | class=examples | text=Extras
+
+
+Wordle UK
+Wordle words that start with the letter "A"
+Wordle words that
+DIV | id= | class=examples | text=This website is not affiliated with the original Wordle game.
+Privacy policy | S
+INS | id= | class=adsbygoogle adsbygoogle-noablate | text=
+DIV | id=aswift_0_host | class= | text=
+IFRAME | id=aswift_0 | class= | text=
+INS | id= | class=adsbygoogle adsbygoogle-noablate | text=
+DIV | id=aswift_7_host | class= | text=
+IFRAME | id=aswift_7 | class= | text=
+SPAN | id= | class=left-side-rail-edge | text=
+SPAN | id= | class=left-side-rail-dismiss-btn | text=
+svg | id= | class=[object SVGAnimatedString] | text=
+defs | id= | class=[object SVGAnimatedString] | text=
+filter | id=left-side-rail-drop-shadow | class=[object SVGAnimatedString] | text=
+feComponentTransfer | id= | class=[object SVGAnimatedString] | text=
+feFuncR | id= | class=[object SVGAnimatedString] | text=
+feFuncG | id= | class=[object SVGAnimatedString] | text=
+feFuncB | id= | class=[object SVGAnimatedString] | text=
+feGaussianBlur | id= | class=[object SVGAnimatedString] | text=
+feOffset | id= | class=[object SVGAnimatedString] | text=
+feMerge | id= | class=[object SVGAnimatedString] | text=
+feMergeNode | id= | class=[object SVGAnimatedString] | text=
+feMergeNode | id= | class=[object SVGAnimatedString] | text=
+path | id= | class=[object SVGAnimatedString] | text=
+rect | id= | class=[object SVGAnimatedString] | text=
+g | id= | class=[object SVGAnimatedString] | text=
+line | id= | class=[object SVGAnimatedString] | text=
+line | id= | class=[object SVGAnimatedString] | text=
+INS | id= | class=adsbygoogle adsbygoogle-noablate | text=
+DIV | id=aswift_8_host | class= | text=
+IFRAME | id=aswift_8 | class= | text=
+SPAN | id= | class=right-side-rail-edge | text=
+SPAN | id= | class=right-side-rail-dismiss-btn | text=
+svg | id= | class=[object SVGAnimatedString] | text=
+defs | id= | class=[object SVGAnimatedString] | text=
+filter | id=right-side-rail-drop-shadow | class=[object SVGAnimatedString] | text=
+feComponentTransfer | id= | class=[object SVGAnimatedString] | text=
+feFuncR | id= | class=[object SVGAnimatedString] | text=
+feFuncG | id= | class=[object SVGAnimatedString] | text=
+feFuncB | id= | class=[object SVGAnimatedString] | text=
+feGaussianBlur | id= | class=[object SVGAnimatedString] | text=
+feOffset | id= | class=[object SVGAnimatedString] | text=
+feMerge | id= | class=[object SVGAnimatedString] | text=
+feMergeNode | id= | class=[object SVGAnimatedString] | text=
+feMergeNode | id= | class=[object SVGAnimatedString] | text=
+path | id= | class=[object SVGAnimatedString] | text=
+rect | id= | class=[object SVGAnimatedString] | text=
+g | id= | class=[object SVGAnimatedString] | text=
+line | id= | class=[object SVGAnimatedString] | text=
+line | id= | class=[object SVGAnimatedString] | text=
+IFRAME | id=google_esf | class= | text=
+INS | id= | class=adsbygoogle adsbygoogle-noablate | text=
+DIV | id=aswift_6_host | class= | text=
+IFRAME | id=aswift_6 | class= | text=
